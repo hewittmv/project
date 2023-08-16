@@ -14,4 +14,6 @@ header {
     url(/style/images/cave.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  color: antiquewhite;
+  text-align: center;
 }

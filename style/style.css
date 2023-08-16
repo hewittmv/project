@@ -44,6 +44,7 @@ header a {
   background-color: white;
   padding: 16px 32px;
   display: inline-block;
+  margin-bottom: 5%;
 }
 @media (max-width: 800px) {
   header {

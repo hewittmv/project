@@ -22,7 +22,7 @@ header h1 {
 header h2 {
   font-weight: 400;
   font-size: 40px;
-  line-height: 1.5;
+  line-height: 1;
 }
 header h3 {
   font-weight: 900;
@@ -31,10 +31,20 @@ header h3 {
   letter-spacing: 5px;
 }
 header a {
+  color: #272044;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.5;
   text-align: center;
   letter-spacing: 3px;
   text-transform: uppercase;
+  text-decoration: none;
+  background-color: white;
+  padding: 16px 32px;
+  display: inline-block;
+}
+@media (max-width: 800px) {
+  header {
+    padding: 60px 0;
+  }
 }

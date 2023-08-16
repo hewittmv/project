@@ -1,3 +1,7 @@
+.container {
+  max-width: 1400px;
+  margin: o auto;
+}
 h1 {
   font-family: "Poppins", sans-serif;
   font-style: normal;

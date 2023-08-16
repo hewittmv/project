@@ -13,6 +13,7 @@ header {
   background-size: cover;
   color: antiquewhite;
   text-align: center;
+  background-position: center;
 }
 header h1 {
   font-weight: 700;

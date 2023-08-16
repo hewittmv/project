@@ -46,7 +46,7 @@ header a {
   display: inline-block;
   margin-bottom: 5%;
 }
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   header {
     padding: 60px 0;
   }

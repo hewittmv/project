@@ -2,6 +2,10 @@
   max-width: 1400px;
   margin: o auto;
 }
+body {
+  font-family: "poppins", sans-serif;
+}
+
 h1 {
   font-family: "Poppins", sans-serif;
   font-style: normal;

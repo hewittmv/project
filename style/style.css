@@ -2,6 +2,10 @@
   max-width: 1400px;
   margin: o auto;
 }
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr;
+}
 body {
   font-family: "poppins", sans-serif;
 }

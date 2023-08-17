@@ -57,6 +57,11 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
 }
+footer h3 {
+  font-weight: 700;
+  font-size: 20px;
+  list-height: 30px;
+}
 @media (max-width: 900px) {
   header {
     padding: 60px 0;

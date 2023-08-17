@@ -105,6 +105,11 @@ section {
 .img-responsive {
   max-width: 100%;
 }
+img {
+  border-style: outset;
+  border-color: #41e9de;
+  border-width: 2px;
+}
 footer {
   color: antiquewhite;
   background-image: linear-gradient(
@@ -116,10 +121,6 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  position: fixed;
-  width: 100%;
-  bottom: 0px;
-  padding: 0;
 }
 footer p {
   font-weight: 400;

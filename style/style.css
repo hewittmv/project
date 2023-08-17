@@ -22,6 +22,12 @@ main h2 {
   opacity: 0.3;
   text-transform: uppercase;
 }
+main h3 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.5;
+  color: #091f26;
+}
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
     url(/style/images/cave.jpg);

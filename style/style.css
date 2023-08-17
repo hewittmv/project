@@ -28,6 +28,12 @@ main h3 {
   line-height: 1.5;
   color: #091f26;
 }
+main p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
     url(/style/images/cave.jpg);

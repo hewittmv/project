@@ -48,7 +48,10 @@ header a {
 }
 footer {
   color: antiquewhite;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+  background-image: linear-gradient(
+      rgba(39, 32, 68, 0.7),
+      rgba(39, 32, 68, 0.7)
+    ),
     url(/style/images/footerimage.jpg);
   background-size: cover;
   background-repeat: no-repeat;

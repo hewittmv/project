@@ -60,7 +60,7 @@ footer {
 footer h3 {
   font-weight: 700;
   font-size: 20px;
-  list-height: 30px;
+  line-height: 30px;
 }
 @media (max-width: 900px) {
   header {

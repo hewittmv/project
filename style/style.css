@@ -21,12 +21,14 @@ main h2 {
   color: #091f26;
   opacity: 0.3;
   text-transform: uppercase;
+  margin: 0;
 }
 main h3 {
   font-weight: 700;
   font-size: 40px;
   line-height: 1.5;
   color: #091f26;
+  margin: 0;
 }
 main p {
   font-style: normal;

@@ -46,6 +46,14 @@ header a {
   display: inline-block;
   margin-bottom: 5%;
 }
+footer {
+  color: antiquewhite;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(/style/images/footerimage.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 @media (max-width: 900px) {
   header {
     padding: 60px 0;

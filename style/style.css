@@ -31,6 +31,8 @@ header h2 {
   font-size: 40px;
   line-height: 1;
   margin: 30px 0;
+  text-shadow: 0px 1px 0px rgba(246, 226, 170, 0.89),
+    0px 2px 0px rgba(246, 226, 170, 0.89);
 }
 header h3 {
   font-weight: 900;
@@ -59,9 +61,9 @@ section {
 footer {
   color: antiquewhite;
   background-image: linear-gradient(
-      rgba(0, 7, 7, 0.9),
+      rgba(0, 7, 7, 1),
       rgba(26, 134, 130, 0.1),
-      rgba(0, 7, 7, 0.9)
+      rgba(0, 7, 7, 1)
     ),
     url(/style/images/footerimage.jpg);
   background-size: cover;
@@ -75,11 +77,10 @@ footer p {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  opacity: 0.7;
   margin-right: 20px;
 }
 footer ul {
-  padding: 0;
+  padding: 03;
 }
 footer li {
   list-style: none;

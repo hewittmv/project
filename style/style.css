@@ -10,7 +10,18 @@
 body {
   font-family: "poppins", sans-serif;
 }
-
+main {
+  background: white;
+}
+main h2 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 5px;
+  color: #091f26;
+  opacity: 0.3;
+  text-transform: uppercase;
+}
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
     url(/style/images/cave.jpg);
@@ -61,6 +72,7 @@ header a {
 section {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 100px 0;
 }
 .hover-1 {
   background-image: linear-gradient(#0b1f47, #091f26);
@@ -85,6 +97,7 @@ footer {
   position: fixed;
   width: 100%;
   bottom: 0px;
+  padding: 0;
 }
 footer p {
   font-weight: 400;
@@ -118,7 +131,7 @@ footer h3 {
   header h1 {
     font-size: 48px;
   }
-  hedaer h2 {
+  header h2 {
     font-size: 20px;
   }
   header h3 {

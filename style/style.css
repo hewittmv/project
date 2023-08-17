@@ -23,6 +23,8 @@ header h1 {
   font-weight: 700;
   font-size: 96px;
   line-height: 1.5;
+  text-shadow: 0px 1px 0px rgba(246, 226, 170, 0.89),
+    0px 2px 0px rgba(246, 226, 170, 0.89), 0px 3px 0px rgba(246, 226, 170, 0.89);
 }
 header h2 {
   font-weight: 400;
@@ -57,8 +59,9 @@ section {
 footer {
   color: antiquewhite;
   background-image: linear-gradient(
-      rgba(39, 32, 68, 0.7),
-      rgba(39, 32, 68, 0.7)
+      rgba(0, 7, 7, 0.9),
+      rgba(26, 134, 130, 0.1),
+      rgba(0, 7, 7, 0.9)
     ),
     url(/style/images/footerimage.jpg);
   background-size: cover;

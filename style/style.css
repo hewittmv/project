@@ -123,8 +123,8 @@ img {
 footer {
   color: antiquewhite;
   background-image: linear-gradient(
-      0.45turn,
-      rgba(0, 7, 7, 1),
+      0.65turn,
+      rgba(0, 7, 7, 2),
       rgba(26, 134, 130, 0.1),
       rgba(0, 7, 7, 1)
     ),

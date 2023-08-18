@@ -59,6 +59,7 @@ main h4 {
   text-shadow: #091f26 0px 1px 0px, #091f26 0px 2px 0px;
 }
 main h5 {
+  margin: 0;
   font-weight: 700;
   font-size: 13px;
   line-height: 1;

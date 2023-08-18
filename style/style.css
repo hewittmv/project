@@ -159,20 +159,23 @@ section {
   display: block;
 }
 img {
-  border-style: inset;
+  border-style: solid;
   border-color: rgb(157, 149, 137);
   border-width: 4px;
   border-radius: 2%;
   box-shadow: inset rgb(24, 20, 7);
-  border-bottom: none;
+}
+.card {
+  margin: 5px;
+  padding: 0;
 }
 .card-body {
   background: #0f1414;
-  border-style: inset;
-  border-width: 4px;
+  border-style: solid;
+  border-width: 6px;
   border-color: rgb(157, 149, 137);
   border-top: none;
-  padding: 20px;
+  padding: 25px;
 }
 .card p {
   color: rgb(157, 149, 137);

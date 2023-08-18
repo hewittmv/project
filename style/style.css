@@ -18,11 +18,15 @@ body {
 }
 main {
   border-style: solid;
-  border-width: 10px;
+  border-width: 5px;
+  border-bottom: none;
   background: linear-gradient(
-    -0.35turn,
-    rgb(240, 218, 189),
-    rgb(199, 169, 130)
+    0.5turn,
+    rgb(3, 3, 3) 1%,
+    rgb(200, 186, 168),
+   rgb(122, 115, 105),
+        rgb(200, 186, 171),
+        rgb(16, 16, 15)
   );
 }
 main h2 {
@@ -115,16 +119,19 @@ section {
   max-width: 100%;
 }
 img {
-  border-style: inset;
-  border-color: #1f7973;
-  border-width: 1px;
+  border-style: ridge;
+  border-color: rgb(99, 73, 38);
+  border-width: 6px;
+  border-radius: 2%;
+  box-shadow: rgb(50, 43, 16) 0px 1px 1px, rgb(99, 73, 38) 0px 2px 2px, rgb(99, 73, 38) 0px 3px 3px;
+    rgb(99, 73, 38) 0px 3px 3px;
 }
 
 footer {
   color: antiquewhite;
   background-image: linear-gradient(
-      0.65turn,
-      rgba(0, 7, 7, 2),
+      0.5turn,
+      rgba(0, 7, 7, 1),
       rgba(26, 134, 130, 0.1),
       rgba(0, 7, 7, 1)
     ),

@@ -17,11 +17,12 @@ body {
   background: #00080a;
 }
 main {
+  border-style: solid;
+  border-width: 10px;
   background: linear-gradient(
-    0.75turn,
-    #0b0b0b 3%,
-    antiquewhite 25%,
-    #040505 95%
+    -0.35turn,
+    rgb(240, 218, 189),
+    rgb(199, 169, 130)
   );
 }
 main h2 {
@@ -30,7 +31,7 @@ main h2 {
   line-height: 1.5;
   letter-spacing: 5px;
   color: #091f26;
-  opacity: 0.3;
+
   text-transform: uppercase;
   margin: 0;
 }
@@ -40,6 +41,7 @@ main h3 {
   line-height: 1.5;
   color: #091f26;
   margin: 0;
+  text-shadow: antiquewhite 0px 1px 0px, #0b1f47 0px 2px 0px;
 }
 main p {
   font-style: normal;

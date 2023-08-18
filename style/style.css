@@ -54,14 +54,14 @@ main h4 {
   margin: 0;
   font-weight: 700;
   font-size: 24px;
-  line-height: 1.5;
+  line-height: 1;
   color: antiquewhite;
   text-shadow: #091f26 0px 1px 0px, #091f26 0px 2px 0px;
 }
 main h5 {
   font-weight: 700;
   font-size: 13px;
-  line-height: 1.5;
+  line-height: 1;
   color: antiquewhite;
   text-shadow: #091f26 0px 1px 0px, #091f26 0px 2px 0px;
 }

@@ -176,6 +176,9 @@ img {
 .card p {
   color: rgb(157, 149, 137);
 }
+.card-footer {
+  padding: 0px 10px 20px;
+}
 footer {
   color: antiquewhite;
   background-image: linear-gradient(

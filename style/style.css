@@ -139,9 +139,10 @@ section {
   padding: 16px 32px;
   display: inline-block;
   margin-bottom: 5%;
-  box-shadow: 0px 1px 1px rgba(19, 240, 230, 0.89),
-    0px 2px 2px rgba(19, 19, 1, 0.89), 0px 3px 3px rgba(19, 19, 1, 0.893),
-    0px 4px 4px rgba(19, 19, 1, 0.89), 0px 5px 0px rgba(19, 19, 1, 0.89);
+  box-shadow: 0px 1px 1px rgba(152, 152, 95, 0.89),
+    0px 2px 2px rgba(160, 160, 118, 0.89),
+    0px 3px 3px rgba(141, 141, 109, 0.893),
+    0px 4px 4px rgba(186, 186, 121, 0.89), 0px 5px 0px rgba(205, 205, 100, 0.89);
 }
 
 .hover-1 {

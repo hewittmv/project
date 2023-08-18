@@ -29,6 +29,9 @@ main {
     rgba(16, 16, 15)
   );
 }
+.text-center {
+  text-align: center;
+}
 main h2 {
   font-weight: 700;
   font-size: 16px;
@@ -48,6 +51,7 @@ main h3 {
   text-shadow: antiquewhite 0px 1px 0px, #0b1f47 0px 2px 0px;
 }
 main p {
+  text-align: start;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -101,7 +105,7 @@ header a {
     0px 4px 4px rgba(19, 19, 1, 0.89), 0px 5px 0px rgba(19, 19, 1, 0.89);
 }
 section {
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 100px 0;
 }

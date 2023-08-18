@@ -160,8 +160,19 @@ img {
   border-width: 4px;
   border-radius: 2%;
   box-shadow: inset rgb(24, 20, 7);
+  border-bottom: none;
 }
-
+.card {
+  background: #0f1414;
+  border-style: inset;
+  border-width: 4px;
+  border-color: rgb(157, 149, 137);
+  border-top: none;
+  margin: 30px 0;
+}
+.card p {
+  color: rgb(157, 149, 137);
+}
 footer {
   color: antiquewhite;
   background-image: linear-gradient(

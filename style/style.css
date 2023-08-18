@@ -125,6 +125,7 @@ section {
 }
 .section-button {
   color: #272044;
+  border-radius: 9%;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.5;

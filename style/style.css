@@ -154,9 +154,21 @@ section {
   text-shadow: var(--dark-shadow);
 }
 .secondary {
-  margin-top: 0.5%;
+  margin-top: 5%;
   margin-left: 2%;
   margin-right: 2%;
+  border-style: groove;
+  border-color: antiquewhite;
+  border-width: 7px;
+  border-left: none;
+  border-right: none;
+  background: linear-gradient(
+    to right,
+    rgba(3, 3, 3) 10%,
+    rgba(122, 115, 105),
+    rgba(200, 186, 168),
+    rgba(200, 186, 171, 0.1)
+  );
 }
 .primary h2 {
   color: antiquewhite;
@@ -211,16 +223,19 @@ img {
   text-align: center;
 }
 .card-body {
+  margin-top: 3%;
   background: #0f1414;
   border-style: solid;
   border-width: 6px;
   border-color: rgb(157, 149, 137);
-  border-top: none;
+
   padding: 25px;
 }
 .card p {
   color: rgb(157, 149, 137);
   text-align: center;
+  padding-left: 4px;
+  padding-right: 4px;
 }
 .card-footer {
   padding: 0px 10px 20px;

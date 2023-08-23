@@ -134,6 +134,10 @@ section {
   margin-left: 5%;
   margin-right: 5%;
 }
+.secondary {
+  margin-left: 2%;
+  margin-right: 2%;
+}
 .primary h2 {
   color: antiquewhite;
 }

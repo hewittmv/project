@@ -259,6 +259,7 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  text-align: center;
 }
 footer p {
   font-weight: 400;

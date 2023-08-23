@@ -38,7 +38,7 @@ main h2 {
   line-height: 1.5;
   letter-spacing: 5px;
   color: #091f26;
-
+  text-shadow: #091f26 0px 1px 0px, #091f26 0px 2px 0px;
   text-transform: uppercase;
   margin: 0;
 }

@@ -283,4 +283,7 @@ footer h3 {
   section {
     padding: 30px;
   }
+  .primary img {
+    margin: auto;
+  }
 }

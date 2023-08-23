@@ -15,6 +15,7 @@
 }
 .grid-3-columns {
   grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 25px;
 }
 body {
   font-family: "poppins", sans-serif;

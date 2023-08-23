@@ -176,6 +176,7 @@ section {
 .img-responsive {
   max-width: 100%;
   display: block;
+  aspect-ratio: auto;
 }
 img {
   border-style: solid;

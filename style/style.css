@@ -240,16 +240,18 @@ img {
   padding: 25px;
 }
 .embed {
-  border-style: inset;
-  border-top: none;
-  border-right: none;
-  border-left: none;
-
-  border-width: 2px;
-  border-color: antiquewhite;
   padding-bottom: 3px;
   margin-bottom: 3%;
+  background: linear-gradient(
+    0.4turn,
+    rgba(3, 3, 3) 10%,
+    rgba(122, 115, 105),
+    rgba(200, 186, 168),
+    rgba(200, 186, 171, 0.1)
+  );
+  opacity: 0.9;
 }
+
 .card p {
   color: rgb(157, 149, 137);
   text-align: center;

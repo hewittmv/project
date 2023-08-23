@@ -13,6 +13,7 @@
 .grid-2-columns {
   grid-template-columns: auto auto;
 }
+
 .grid-3-columns {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 25px;

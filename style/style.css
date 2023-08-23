@@ -239,6 +239,9 @@ img {
 
   padding: 25px;
 }
+iframe {
+  width: 90%;
+}
 .embed {
   padding-bottom: 3px;
   margin-bottom: 3%;

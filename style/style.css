@@ -314,4 +314,7 @@ footer h3 {
   footer {
     text-align: center;
   }
+  .about-waitomo-link {
+    font-size: 20px;
+  }
 }

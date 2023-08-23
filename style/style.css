@@ -131,6 +131,8 @@ section {
 }
 .primary {
   margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .primary h2 {
   color: antiquewhite;

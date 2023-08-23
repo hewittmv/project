@@ -311,4 +311,7 @@ footer h3 {
   .primary img {
     margin: auto;
   }
+  footer {
+    text-align: center;
+  }
 }

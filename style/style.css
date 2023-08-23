@@ -125,7 +125,7 @@ header a {
 section {
   max-width: 100%;
   margin: 0 auto;
-  padding: 100px 0;
+  padding: 50px;
 }
 .primary {
   margin-bottom: 0;
@@ -219,7 +219,7 @@ img {
   box-shadow: inset rgb(24, 20, 7);
 }
 .card {
-  margin: 0.5px;
+  margin: 0.5%;
   padding: 0;
   text-align: center;
 }

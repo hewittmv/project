@@ -207,7 +207,7 @@ section {
   background-size: 100% 100%;
 }
 .img-responsive {
-  max-width: 100%;
+  width: 100%;
   display: block;
   aspect-ratio: auto;
 }

@@ -239,6 +239,17 @@ img {
 
   padding: 25px;
 }
+.embed {
+  border-style: inset;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+
+  border-width: 2px;
+  border-color: antiquewhite;
+  padding-bottom: 3px;
+  margin-bottom: 3%;
+}
 .card p {
   color: rgb(157, 149, 137);
   text-align: center;

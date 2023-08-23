@@ -279,6 +279,10 @@ iframe {
     rgba(200, 186, 171, 0.1)
   );
 }
+.tertiary h2 {
+  color: antiquewhite;
+  text-shadow: #091f26 0px 1px 0px, #091f26 0px 2px 0px;
+}
 .card-footer {
   padding: 0px 10px 10px;
 }

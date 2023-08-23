@@ -86,8 +86,9 @@ header h1 {
   font-weight: 700;
   font-size: 96px;
   line-height: 1.5;
-  text-shadow: 0px 1px 0px rgba(246, 226, 170, 0.89),
-    0px 2px 0px rgba(246, 226, 170, 0.89), 0px 3px 0px rgba(246, 226, 170, 0.89);
+  text-shadow: 0px 1px 1px rgba(107, 79, 14, 0.89),
+    0px 2px 0px rgba(246, 226, 170, 0.89), 0px 3px 0px rgba(246, 226, 170, 0.89),
+    0px 4px 0px rgba(246, 226, 170, 0.89);
 }
 header h2 {
   font-weight: 400;

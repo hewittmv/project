@@ -43,7 +43,8 @@ main h3 {
   line-height: 1.5;
   color: #091f26;
   margin: 0;
-  text-shadow: antiquewhite 0px 1px 0px, #0b1f47 0px 2px 0px;
+  text-shadow: antiquewhite 0px 1px 0px, antiquewhite 0px 2px 0px,
+    #0b1f47 0px 3px 0px;
 }
 main h4 {
   margin: 0;

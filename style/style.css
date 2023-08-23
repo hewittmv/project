@@ -74,6 +74,10 @@ header {
   background-position: center;
   margin-top: 2%;
 }
+.primary img {
+  box-shadow: #091f26 0px 1px 1px, #091f26 0px 2px 2px, #091f26 0px 3px 3px,
+    #091f26 0px 4px 4px, #0e1010 0px 5px 5px;
+}
 header h1 {
   font-weight: 700;
   font-size: 96px;

@@ -285,9 +285,15 @@ iframe {
   text-shadow: #091f26 0px 1px 0px, #091f26 0px 2px 0px;
 }
 .instagram-photo {
+  background: linear-gradient(
+    0.6turn,
+    rgba(3, 3, 3) 10%,
+    rgba(122, 115, 105),
+    rgba(200, 186, 168),
+    rgba(200, 186, 171, 0.1)
+  );
   border-radius: 2%;
   margin-top: 3%;
-  background: #0f1414;
   border-style: solid;
   border-width: 5px;
   border-color: antiquewhite;

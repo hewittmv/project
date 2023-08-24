@@ -285,12 +285,32 @@ iframe {
   text-shadow: #091f26 0px 1px 0px, #091f26 0px 2px 0px;
 }
 .instagram-photo {
-  background: linear-gradient(
-    0.6turn,
-    rgba(3, 3, 3) 10%,
+  background: radial-gradient(
+    circle at 100%,
+    rgba(3, 3, 3),
+    rgba(122, 115, 105) 12%,
+    rgba(200, 186, 168) 9%,
+    rgba(200, 186, 171, 0.1),
+    rgba(3, 3, 3),
+    rgba(122, 115, 105) 6%,
+    rgba(200, 186, 168) 10%,
+    rgba(200, 186, 171, 0.1) 4%,
+    rgba(3, 3, 3),
     rgba(122, 115, 105),
     rgba(200, 186, 168),
-    rgba(200, 186, 171, 0.1)
+    rgba(200, 186, 171, 0.1) 7%,
+    rgba(3, 3, 3) 1%,
+    rgba(122, 115, 105) 20%,
+    rgba(200, 186, 168) 27%,
+    rgba(200, 186, 171, 0.1) 2%,
+    rgba(3, 3, 3),
+    rgba(122, 115, 105) 39%,
+    rgba(200, 186, 168),
+    rgba(200, 186, 171, 0.1) 6%,
+    rgba(3, 3, 3) 18%,
+    rgba(122, 115, 105) 9%,
+    rgba(200, 186, 168) 16%,
+    rgba(200, 186, 171, 0.1) 10%
   );
   border-radius: 2%;
   margin-top: 3%;

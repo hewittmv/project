@@ -374,4 +374,8 @@ footer h3 {
   .about-waitomo-link {
     font-size: 20px;
   }
+  .instagram-photo {
+    display: flex;
+    justify-content: center;
+  }
 }

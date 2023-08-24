@@ -229,6 +229,7 @@ img {
     #091f26 0px 4px 4px, #0e1010 0px 5px 5px;
 }
 .card-body {
+  border-radius: 2%;
   margin-top: 3%;
   background: #0f1414;
   border-style: solid;
